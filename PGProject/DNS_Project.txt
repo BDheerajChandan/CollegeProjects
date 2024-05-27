@@ -1,0 +1,53 @@
+DNS 
+How internet is working
+Applications of DNS
+Time series database
+Importance of DNS
+Why we are not using MySQL and MongoDB
+Influx D
+coedbns.security.in
+
+========================================================================
+DNS 
+- Domain Name System
+- It is a phonebook of the internet
+- It translates human-readable domain names into IP addressess that computers use to identify each other on the network.
+- Accessing information online through domain names,
+- Example: www.<Name>.com
+- Domain Name System (DNS) protocol is the process of searching for specific websites through web browsers.
+
+========================================================================
+How internet is working
+- Computers connect to each other and to the Internet either by wired or wireless. Say, Wifi.
+- Data sent over the Internet is translated into pulses of light/electricity, also called "bits".
+- Then  "bits" interpreted by the receiving computer.
+- Example: via wires, cables, radio waves & other types of networking infrastructure.
+- It works by using a packet routing network that follows Internet Protocol (IP) and Transport Control Protocol (TCP).
+- TCP and IP work together to ensure that data transmission across the internet is consistent and reliable, no matter which device you're using or where you're using it.
+
+========================================================================
+Importance of DNS
+- DNS translates domain names to IP addresses so browsers can load Internet resources.
+- It makes it much easier for humans to work with network components and find the resources they need, as it: 
+- Relates names and IPs, making it easier to find resources. 
+	Makes URLs work for websites. 
+	Makes email addresses work.
+- Human Usability, Load Distribution, Redundancy and Reliability, Security
+- Applications: Web Browsing, Email Services, Load Balancing, Content Delivery Networks(CDNs)
+========================================================================
+
+Time Series Database
+- A time series database (TSDB) is optimized for storing and querying time-stamped data, which is crucial for applications that track changes over time.
+- Example: Monitoring Systems, IoT Applications, Financial Data, Scientific Research.
+- A time series database (TSDB) is a database optimized for time-stamped or time series data.
+- Time series data are simply measurements or events that are tracked, monitored, downsampled, and aggregated over time. 
+- A TSDB is optimized for measuring change over time. 
+- Properties that make time series data very different than other data workloads are data lifecycle management, summarization, and large range scans of many records.
+
+========================================================================
+Why we are not using MySQL and MongoDB ?
+- They are difficult to scale
+- Efficiency: TSDBs are optimized for time-stamped data and can handle the high write loads and query requirements efficiently.
+- Compression: TSDBs often provide better compression algorithms tailored to time series data, reducing storage costs.
+- Query Performance: TSDBs offer specialized query capabilities for time-based data, which can be significantly faster than general-purpose databases.
+- Retention Policies: TSDBs typically have built-in support for data retention policies, automatically archiving or deleting old data.
