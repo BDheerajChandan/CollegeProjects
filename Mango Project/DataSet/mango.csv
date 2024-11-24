@@ -1,0 +1,241 @@
+Date of acquisition,Date of measurement,LABEL,VARIETY,Location,Batch_Fogiene,WEIGHT_g,DIA1_mm_shortwidth,DIA2_mm_longwidth,DIA3_mm_length,VOL_BEFORE_ml,VOL_AFTER_ml,VOLUME_ml,VISUAL_COLOR,VISUAL_MATURITY,VISUAL_DAMAGE,REMARKS,Distance
+01-04-2023,03-04-2023,1,Badami,Chennapatna,1,223,67,73.62,89.19,1400,1640,240,green,immature,none,white lenticel formation,6.5
+01-04-2023,03-04-2023,2,Badami,Chennapatna,1,277,71.28,81.17,97.46,1400,1700,300,green,immature,none,white lenticel formation,6
+01-04-2023,03-04-2023,3,Badami,Chennapatna,1,210,66.51,71.95,86.33,1400,1630,230,green,immature,none,white lenticel formation slight bruise near 3B,7
+01-04-2023,03-04-2023,4,Badami,Chennapatna,1,242,71.38,76.05,89.39,1400,1660,260,green,immature,none,white lenticel formation,6.5
+01-04-2023,03-04-2023,5,Badami,Chennapatna,1,215,65.07,69.71,90.33,1400,1640,240,green,immature,none,white lenticel formation,6.5
+01-04-2023,04-04-2023,6,Badami,Chennapatna,2,212,61.75,71.33,89.14,1360,1580,220,green,immature,black spots,"white lenticel formation, 
+black spots covering A side",7.8
+01-04-2023,04-04-2023,7,Badami,Chennapatna,2,211,65.77,72.19,82.65,1360,1580,220,green,immature,none,white lenticel with little scarf skin and black spots,7.8
+01-04-2023,04-04-2023,8,Badami,Chennapatna,,,,,,,,0,green,immature,,suspected fruit fly so kept for check (only images data taken),
+01-04-2023,04-04-2023,9,Badami,Chennapatna,2,237,67.87,73.36,92.72,1360,1600,240,green,immature,none,"white lenticel formation with red blush near stem end, few black spots on shoulder",7.5
+01-04-2023,04-04-2023,10,Badami,Chennapatna,2,178,62.45,68.53,82.94,1360,1540,180,green,immature,black spots,"white lenticel formation, 
+black spots covering B side",8.3
+01-04-2023,04-04-2023,11,Badami,Chennapatna,2,261,69.52,79.4,96.93,1360,1640,280,green,immature,none,white lenticel formation,7.5
+01-04-2023,05-04-2023,12,Badami,Chennapatna,3,307,74.31,78.16,95.24,1320,1600,280,green,immature,none,white lenticel formation,7.1
+01-04-2023,05-04-2023,13,Badami,Chennapatna,3,259,72.5,74.57,95.97,1320,1580,260,green,immature,holes,"possible insect holes on A and B side, white lenticel formation",7.5
+01-04-2023,05-04-2023,14,Badami,Chennapatna,3,220,68.64,68.99,85.53,1320,1520,200,green,immature,none,white lenticel formation,7.7
+01-04-2023,05-04-2023,15,Badami,Chennapatna,3,232,65.08,74.1,91.15,1300,1560,260,green,immature,none,"black spots near label on A side, white lenticel formation",7.6
+01-04-2023,05-04-2023,16,Badami,Chennapatna,3,235,66.73,75.34,92.65,1300,1560,260,green,immature,none,white lenticel formation,7.5
+01-04-2023,05-04-2023,17,Badami,Chennapatna,3,179,62.78,67.34,82.07,1300,1500,200,green,immature,cut and black spots,"white lenticel formation, BLACK SPOTS ON a AND b SIDE AND POSSIBLE CUT ON A SIDE, BLACK BURN ON A SIDE NEAR SHOULDER,  SCARF SKIN ON LOWER PORTIONS",8.3
+01-04-2023,06-04-2023,18,Badami,Chennapatna,4,243,67.57,74.99,89.09,660,900,240,green,immature,none,"white lenticel formation, black spots on the shoulder plus red blush",7.3
+01-04-2023,06-04-2023,19,Badami,Chennapatna,4,189,60.89,67.18,87.66,650,850,200,green,immature,none,"white lenticel formation, black spots on the shoulder",8.2
+01-04-2023,06-04-2023,20,Badami,Chennapatna,4,247,68.22,75.17,92.08,650,900,250,green,immature,none,"white lenticel formation, slight red blush on the shoulder",7.6
+01-04-2023,06-04-2023,21,Badami,Chennapatna,4,244,66.31,71.28,91.4,650,900,250,green,immature,black spots,"white lenticel formation, black spots on B side plus red blush on the shoulder",7.7
+01-04-2023,06-04-2023,22,Badami,Chennapatna,4,246,67.56,75.08,90.1,650,900,250,green,immature,scarf skin and blck spots,"white lenticel formation, scarf skin and black spots",7.6
+01-04-2023,06-04-2023,23,Badami,Chennapatna,4,221,64.82,71.24,89.46,640,880,240,green,immature,none,white lenticel formation,8.1
+01-04-2023,10-04-2023,24,Badami,Chennapatna,5,229,63.97,73.4,94.68,590,830,240,green,immature,skin damaged ,"white lenticel formation, more soft than earlier taken, skin damaged on A side",8
+01-04-2023,10-04-2023,25,Badami,Chennapatna,5,194,62.99,67.58,83.39,590,790,200,green,immature,none,"white lenticel formation, more soft than earlier taken, black spots on shoulder",8.4
+01-04-2023,10-04-2023,26,Badami,Chennapatna,5,233,66.72,73.43,90.28,590,830,240,green,immature,physical injury,"white lenticel formation, more soft than earlier taken, bruise/cut on B side",7.9
+01-04-2023,10-04-2023,27,Badami,Chennapatna,5,258,69.45,74.57,95.48,590,860,270,green,immature,black spots,"white lenticel formation, more soft than earlier taken, small black spots",7.5
+01-04-2023,10-04-2023,28,Badami,Chennapatna,5,232,68.41,71.14,89.65,590,820,230,green,immature,none,"white lenticel formation, more soft than earlier taken",7.7
+01-04-2023,10-04-2023,29,Badami,Chennapatna,6,207,63.36,68.29,91.4,580,790,210,green,immature,none,"white lenticel formation, more soft than earlier taken, scarf skin on shoulders",8.1
+01-04-2023,11-04-2023,30,Badami,Chennapatna,6,232,65.87,73.33,91.22,580,810,230,green,immature,black spots,"white lenticel formation, more soft than earlier taken, small black spots on A side",7.9
+01-04-2023,11-04-2023,31,Badami,Chennapatna,6,265,67.12,78.4,96.77,580,840,260,green,immature,black spots,"white lenticel formation, more soft than earlier taken, scarf skin and few black spots",7.7
+01-04-2023,11-04-2023,32,Badami,Chennapatna,6,233,65.13,72.18,92.09,580,810,230,green,immature,black spots,"white lenticel formation, more soft than earlier taken, small black spots",7.9
+01-04-2023,11-04-2023,33,Badami,Chennapatna,6,230,66.02,73.46,90.6,580,810,230,green,immature,none,"white lenticel formation, more soft than earlier taken, black spots on shoulder",8.1
+12-04-2023,13-04-2023,34,Badami,Chennapatna,7,233,63.09,72.71,98.65,540,780,240,green,immature,none,"white lenticel formation,  black spots near apex",7.9
+12-04-2023,13-04-2023,35,Badami,Chennapatna,7,243,66.76,73.77,97.05,540,790,250,green,immature,none,"white lenticel formation,  black spots near apex",7.7
+12-04-2023,13-04-2023,36,Badami,Chennapatna,7,306,70.05,79.18,107.57,540,850,310,green,immature,none,white lenticel formation,7.5
+12-04-2023,13-04-2023,37,Badami,Chennapatna,7,246,67.69,74.22,96.25,540,790,250,green,immature,none,"white lenticel formation, physical injury at apex",7.8
+12-04-2023,13-04-2023,38,Badami,Chennapatna,7,235,62.42,73.28,99.3,540,780,240,green,immature,none,"white lenticel formation, skin damage near apex and cut on A side outside spectra acquisition region",8.2
+12-04-2023,13-04-2023,39,Badami,Chennapatna,7,252,67.81,73.79,98.3,530,800,270,green,immature,physical injury,"white lenticel formation,  cut on A side",7.7
+12-04-2023,14-04-2023,40,Badami,Chennapatna,8,233,61.07,74.21,99.72,520,760,240,green,immature,black spots,"white lenticel formation,  black spots on A and B side",8
+12-04-2023,14-04-2023,41,Badami,Chennapatna,8,276,68.28,75.52,103.29,520,800,280,green with yellow blush,immature,none,"white lenticel formation,  cut on B side at end, yellow coloration on the shoulder",7.5
+12-04-2023,14-04-2023,42,Badami,Chennapatna,8,198,59.63,68.06,93.51,520,730,210,green with yellow blush,immature,none,"white lenticel formation,  yellow coloration on shoulder",8.5
+12-04-2023,14-04-2023,43,Badami,Chennapatna,8,291,68.03,80.34,105.7,520,820,300,green,immature,none,"white lenticel formation,  black spots on shoulder, possible sap burns",7.3
+12-04-2023,14-04-2023,44,Badami,Chennapatna,8,221,63.34,72.18,93.84,520,750,230,green with yellow blush,immature,black spots,"white lenticel formation,  spots on A side, slight yellow coloration on the shoulder",8
+12-04-2023,14-04-2023,45,Badami,Chennapatna,8,253,65.76,70.44,100.54,520,780,260,green with yellow blush,immature,black spots,"white lenticel formation,  spots on A side, yellow coloration on the shoulder",7.6
+12-04-2023,17-04-2023,46,Badami,Chennapatna,9,312,67.27,81.64,111.5,450,790,340,green with yellow blush,immature,black spots,"white lenticel formation, spots on A side, slight yellow coloration on the side",7.6
+12-04-2023,17-04-2023,47,Badami,Chennapatna,9,238,64.81,74.18,98.18,450,720,270,green with yellow blush,immature,black spots,"white lenticel formation, spots on A side, slight yellow coloration on the A side",7.7
+12-04-2023,17-04-2023,48,Badami,Chennapatna,9,290,68.21,78.92,104.41,440,760,320,green,immature,black spots,"white lenticel formation, spots on A side",7.3
+12-04-2023,17-04-2023,49,Badami,Chennapatna,9,226,65.07,70.02,96.47,440,700,260,green,immature,black spots,"white lenticel formation, spots on A side and side",7.8
+12-04-2023,17-04-2023,50,Badami,Chennapatna,9,217,61.77,72.64,97.55,440,690,250,green with yellow blush,immature,black spots,"white lenticel formation,  spots on shoulders and B side, slight yellow coloration on the shoulder",8.3
+12-04-2023,18-04-2023,51,Badami,Chennapatna,10,236,63.11,73.18,98.99,430,690,260,green with yellow blush,immature,black spots,"white lenticel formation,  spots on shoulders and B side (possible sap burn), softer,  slight yellow coloration on the shoulder",7.9
+12-04-2023,18-04-2023,52,Badami,Chennapatna,10,289,58.74,69.55,91.4,430,630,200,green with yellow blush,immature,black spots,"white lenticel formation,  spots on shoulders and A side, softer, slight yellow coloration on the shoulder",8.7
+12-04-2023,18-04-2023,53,Badami,Chennapatna,10,238,63.2,71.09,101.62,430,690,260,green with yellow blush,immature,none,"white lenticel formation,  spots on A side, scarf skin, softer,  slight yellow coloration on the shoulder",7.8
+12-04-2023,18-04-2023,54,Badami,Chennapatna,10,218,63.33,73.91,93.64,430,660,230,green with yellow blush,immature,black spots,"white lenticel formation,  spots on shoulders and A side (possible sap burn), softer,  slight yellow coloration on the shoulder",8
+12-04-2023,18-04-2023,55,Badami,Chennapatna,10,198,59.27,71.06,91.48,430,640,210,green with red blush,immature,black spots,"white lenticel formation,  spots on A and B side (possible sap burn), softer,  yellowish red coloration on the shoulder",8.4
+12-04-2023,18-04-2023,56,Badami,Chennapatna,10,207,59.87,72.57,99.67,430,670,240,green with yellow blush,immature,Abrasion,"white lenticel formation,  yellow coloration on the shoulder, softer, abrasion on A side",8.5
+01-04-2023,19-04-2023,57,Badami,Chennapatna,11,200,62.02,69.27,86.73,590,800,210,"green with yellow blush, yellow lenticels","immature, ripened",black spots,"immature ripened with non uniform yellow color formation, very soft, shrivelled, spots on B side and shoulder",8.3
+01-04-2023,19-04-2023,58,Badami,Chennapatna,11,220,62.91,73,94.6,590,820,230,"green with yellow blush, yellow lenticels","immature, ripened",black spots,"immature ripened with non uniform yellow color formation, very soft, shrivelled, spots on B side A side",8.2
+01-04-2023,19-04-2023,59,Badami,Chennapatna,11,192,62.52,67.46,87.85,590,790,200,"green with yellow blush, yellow lenticels","immature, ripened",black spots,"immature ripened with non uniform yellow color formation, very soft, shrivelled, spots on B side and shoulder (possible latex burn)",8.5
+01-04-2023,19-04-2023,60,Badami,Chennapatna,11,243,63.83,73.17,95.57,590,830,240,"green with yellow blush, yellow lenticels","immature, ripened",none,"immature ripened with non uniform yellow color formation, very soft, shrivelled, spots on shoulder (possible latex burn)",7.9
+01-04-2023,19-04-2023,61,Badami,Chennapatna,11,147,54.77,64.43,82.63,590,750,160,"green with yellow blush, yellow lenticels","immature, ripened",none,"immature ripened with non uniform yellow color formation, very soft, shrivelled, spots on shoulder (possible latex burn), senescence started",9.2
+01-04-2023,19-04-2023,62,Badami,Chennapatna,11,188,60.3,67.5,87.4,590,780,190,"green with yellow blush, yellow lenticels","immature, ripened",black spots,"immature ripened with non uniform yellow color formation, very soft, shrivelled, spots (possible latex burn)",8.7
+18-04-2023,20-04-2023,63,Badami,Chennapatna,12,192,60.6,67.42,90.29,560,760,200,green,immature,black spots,"white lenticel formation,  spots on B side (possible sap burn), burn at apex",8.3
+18-04-2023,20-04-2023,64,Badami,Chennapatna,12,245,67.08,74.57,95.86,560,810,250,green,immature,none,"white lenticel formation,  black spots at apex",7.8
+18-04-2023,20-04-2023,65,Badami,Chennapatna,12,175,61.49,63.52,83.01,560,740,180,green,immature,none,"white lenticel formation,  sap burn  on shoulders",8.5
+18-04-2023,20-04-2023,66,Badami,Chennapatna,12,191,63.36,66.14,84.62,560,760,200,green,immature,skin damaged ,"white lenticel formation,  possible insect hole near apex, scarf skin on A side",7.9
+18-04-2023,20-04-2023,67,Badami,Chennapatna,12,234,64.68,73.16,98.67,560,800,240,green,immature,black spots,"white lenticel formation,  black spots on A side, soil deposition at nose",8
+18-04-2023,20-04-2023,68,Badami,Chennapatna,12,211,62.4,71.03,92.11,550,780,230,green,immature,black spots,"white lenticel formation,  black spots (possible sap burn)",8
+18-04-2023,20-04-2023,69,Badami,Chennapatna,12,219,62.51,70.16,94.07,550,780,230,green,immature,none,"white lenticel formation,  sap burn  on A side",7.8
+18-04-2023,20-04-2023,70,Badami,Chennapatna,12,247,65.66,74.46,99.49,560,820,260,green,immature,black spots,"white lenticel formation,  small spots B side, physical injury on A side",7.7
+18-04-2023,20-04-2023,71,Badami,Chennapatna,12,227,63.25,70.47,96.5,550,800,250,green,immature,none,"white lenticel formation,  small spots B side, scarf skin on shoulder",7.9
+18-04-2023,20-04-2023,72,Badami,Chennapatna,12,180,56.65,63.95,92.16,550,750,200,green,immature,black spots,"white lenticel formation,  black spots on A side and on shoulder",8.4
+18-04-2023,21-04-2023,73,Badami,Chennapatna,13,182,59.24,67.75,91.09,540,730,190,green,immature,black spots,"white lenticel formation,  black spots on A side, shoulder and apex",8.5
+18-04-2023,21-04-2023,74,Badami,Chennapatna,13,172,57.61,67.09,89.07,540,720,180,green,immature,none,"white lenticel formation,  black spots on A side (possible sap burn)",8.6
+18-04-2023,21-04-2023,75,Badami,Chennapatna,13,239,66.92,73.33,93.96,540,780,240,green,immature,none,"white lenticel formation,  abrasion on A side, little sap burn on B side",7.7
+18-04-2023,21-04-2023,76,Badami,Chennapatna,13,231,64.2,71.76,96.92,540,790,250,green,immature,black spots,"white lenticel formation,  black spots on A side, limb rub on apex",7.9
+18-04-2023,21-04-2023,77,Badami,Chennapatna,13,196,60.76,69.72,93.43,540,740,200,green,immature,none,"white lenticel formation,  possible sap burn on top B side",8.1
+18-04-2023,21-04-2023,78,Badami,Chennapatna,13,245,64.95,74.77,100.11,540,790,250,green,immature,none,"white lenticel formation,  little light green color on top",7.7
+18-04-2023,21-04-2023,79,Badami,Chennapatna,13,234,62.97,74.77,100.7,540,780,240,green,immature,scarf skin,"white lenticel formation,  scarf skin on lower area both A and B sides",8.1
+18-04-2023,21-04-2023,80,Badami,Chennapatna,13,214,61.9,69.34,98.18,530,760,230,green,immature,none,white lenticel formation,8.2
+18-04-2023,21-04-2023,81,Badami,Chennapatna,13,212,59.91,70.93,97.78,530,760,230,green,immature,black spots,"white lenticel formation,  little light green color on top, small spots on B side",8.3
+18-04-2023,21-04-2023,82,Badami,Chennapatna,13,183,56.62,68.52,89.95,530,720,190,green,immature,none,"white lenticel formation,  little yellowish green color, small spots on B side and near apex",8.5
+18-04-2023,24-04-2023,83,Badami,Chennapatna,14,216,61.83,69.75,94.66,570,790,220,green,immature,none,white lenticel formation,8
+18-04-2023,24-04-2023,84,Badami,Chennapatna,14,254,65.67,74.11,98.51,580,830,250,green,immature,none,"white lenticel formation, slight black spots",7.7
+18-04-2023,24-04-2023,85,Badami,Chennapatna,14,259,64.57,77.22,101.75,560,840,280,green,immature,none,"white lenticel formation, slight brown spots",7.8
+18-04-2023,24-04-2023,86,Badami,Chennapatna,14,193,58.7,69.43,96.36,570,780,210,green,immature,black spots,"white lenticel formation, slight black spots",8.6
+18-04-2023,24-04-2023,87,Badami,Chennapatna,14,213,61.17,72.47,98.72,560,800,240,green,immature,none,"white lenticel formation, brown spots on side",7.9
+18-04-2023,24-04-2023,88,Badami,Chennapatna,14,203,61.35,69.05,91.51,560,780,220,green,immature,none,"white lenticel formation, slight black spots",8.5
+18-04-2023,25-04-2023,89,Badami,Chennapatna,15,207,61.27,69.33,90.33,540,770,230,green,immature,brown spots,"white lenticels, brown spots prominent in B side",8.4
+18-04-2023,25-04-2023,90,Badami,Chennapatna,15,260,68.72,77.81,97.72,530,820,290,green with yellow blush,immature,none,"white lenticels, damage on the shoulder",7.5
+18-04-2023,25-04-2023,91,Badami,Chennapatna,15,272,67.88,78.32,102.94,530,830,300,green,immature,brown spots,"white lenticels, brown spots prominent in B side",7.5
+18-04-2023,25-04-2023,92,Badami,Chennapatna,15,168,59.4,63.96,86.4,530,720,190,green,immature,none,"white lenticels, brown spot on the shoulder",8.6
+18-04-2023,25-04-2023,93,Badami,Chennapatna,15,310,71.57,81.41,106.45,530,860,330,green,immature,brown spots,"white lenticels, brown spots prominent in B side",7
+18-04-2023,25-04-2023,94,Badami,Chennapatna,15,166,56.12,65.14,88.53,530,720,190,green,immature,none,"white lenticels, brown spot on the shoulder",9
+18-04-2023,25-04-2023,95,Badami,Chennapatna,15,164,56.57,64.92,86.27,530,710,180,green,immature,brown spots,"white lenticels, brown spots on the side",8.8
+18-04-2023,25-04-2023,96,Badami,Chennapatna,15,211,61.26,68.38,96.91,530,710,180,green,immature,none,"white lenticels, brown spot on the shoulder",8.3
+18-04-2023,25-04-2023,97,Badami,Chennapatna,15,136,53.58,60.68,81.13,530,680,150,green,immature,brown spots,"white lenticels, brown spots on the both sides",9.3
+18-04-2023,25-04-2023,98,Badami,Chennapatna,15,177,56.46,64.97,90.29,530,730,200,green,immature,brown spots,"white lenticels, brown spots in A side",8.8
+18-04-2023,26-04-2023,99,Badami,Chennapatna,16,227,62.62,74.21,101.68,530,770,240,green,immature,none,white lenticels,7.9
+18-04-2023,26-04-2023,100,Badami,Chennapatna,16,211,63.21,71.26,96.6,520,750,230,green,immature,brown spots,"white lenticels, brown spots in A side",8
+18-04-2023,26-04-2023,101,Badami,Chennapatna,16,207,59.72,73.58,97.86,520,750,230,green,immature,brown spots,"white lenticels, brown spots in B side",8.3
+18-04-2023,26-04-2023,102,Badami,Chennapatna,16,158,59.88,63.92,81.14,520,690,170,green,immature,none,"white lenticels, brown spots on the side",8.6
+18-04-2023,26-04-2023,103,Badami,Chennapatna,16,161,55.42,66.97,86.25,510,690,180,green,immature,brown spot,"white lenticels, brown spot in B side",8.9
+18-04-2023,26-04-2023,104,Badami,Chennapatna,16,189,58.53,68.15,91.61,510,740,230,green,immature,none,"white lenticels, slight black spots in A side",8.6
+18-04-2023,27-04-2023,105,Badami,Chennapatna,17,214,61.55,70.74,94.97,500,690,190,green,immature,black spots,"white lenticels, slight black spots damage in A side",8.1
+18-04-2023,27-04-2023,106,Badami,Chennapatna,17,172,57.9,65.82,90.32,500,700,200,green,immature,brown spots,"white lenticels, slight brown spots damage in B side",8.7
+18-04-2023,27-04-2023,107,Badami,Chennapatna,17,159,56.04,65.9,85.48,500,670,170,green,immature,brown spots,"white lenticels, slight brown spots damage in B side and A side",8.9
+18-04-2023,27-04-2023,108,Badami,Chennapatna,17,151,55.12,63.04,83.37,500,660,160,green,immature,none,"white lenticels, black spots damage near stem",9
+18-04-2023,27-04-2023,109,Badami,Chennapatna,17,149,51.94,64.93,86.93,500,660,160,green,immature,brown spots,"white lenticels, slight brown spots in B side",9
+18-04-2023,27-04-2023,110,Badami,Chennapatna,17,191,59.94,68.45,91.89,490,710,220,green,immature,insect,"white lenticels, insect damage",8.5
+18-04-2023,28-04-2023,111,Badami,Chennapatna,18,150,54.96,65.32,84.63,480,640,160,green with yellow blush,immature,black spot,"white lenticels, brown spot in B side",9.1
+18-04-2023,28-04-2023,112,Badami,Chennapatna,18,142,53.69,63.95,81.66,480,670,190,green,immature,none,"white lenticels, slight brown spots on the side",9.2
+18-04-2023,28-04-2023,113,Badami,Chennapatna,18,191,60.24,67.86,89.51,470,690,220,green,immature,brown spots,"white lenticels, slight brown spots on both A and B sides",8.7
+18-04-2023,28-04-2023,114,Badami,Chennapatna,18,151,51.61,62.61,89.74,470,650,180,green,immature,brown spot,"white lenticels, brown spot in B side",9.5
+18-04-2023,28-04-2023,115,Badami,Chennapatna,18,150,50.41,62.64,90.37,470,650,180,green,immature,brown spots,"white lenticels, slight brown spots on both A and B sides",9.3
+18-04-2023,28-04-2023,116,Badami,Chennapatna,18,148,53.71,64.59,87.46,470,640,170,green ,immature,none,"white lenticels, slight brown spots on B side",8.9
+12-05-2023,16-05-2023,117,Badami,Chennapatna,19,259,66.28,74.77,101.04,480,760,280,yellow with light green,"immature/mature, ripened",none,"fully ripened, black spots on shoulder and A side",7.9
+12-05-2023,16-05-2023,118,Badami,Chennapatna,19,360,74.89,82.67,106.34,490,860,370,yellow with red blush,"immature/mature, ripened",none,"fully ripened, black spots near apex",6.7
+12-05-2023,16-05-2023,119,Badami,Chennapatna,19,306,69.71,77.98,106.24,490,810,320,yellow with light green with red blush,"immature/mature, ripened",black spots,"fully ripened, black spots on B side and shoulders",7.2
+12-05-2023,16-05-2023,120,Badami,Chennapatna,19,335,72.44,79.76,106.07,500,830,330,yellow with red blush,"immature/mature, ripened",spots,"fully ripened, brownish spots on B side and shoulders and physical damage on B side",7.1
+12-05-2023,16-05-2023,121,Badami,Chennapatna,19,323,70.69,80.64,102.51,500,820,320,yellow with light green,"immature/mature, ripened",none,"fully ripened, black spots on shoulders",7
+12-05-2023,16-05-2023,122,Badami,Chennapatna,19,364,73.72,84.66,109.42,500,880,380,yellow with light green with red blush,"immature/mature, ripened",none,"fully ripened, sap spots on shoulders",6.8
+12-05-2023,17-05-2023,123,Badami,Chennapatna,20,252,67.45,75.1,95.25,470,740,270,yellow with light green with red blush,"immature/mature, ripened",spots,"fully ripened, brownish spots on shoulders and B side",7.6
+12-05-2023,17-05-2023,124,Badami,Chennapatna,20,240,66.7,72.4,94.25,470,730,260,yellow with light green with red blush,"immature/mature, ripened",none,"fully ripened, black spots on B side",7.7
+12-05-2023,17-05-2023,125,Badami,Chennapatna,20,272,68.96,81.24,97.77,470,760,290,yellow with light green with red blush,"immature/mature, ripened",marks,"fully ripened, marks like impressions on B side",7.5
+12-05-2023,17-05-2023,126,Badami,Chennapatna,20,276,65.17,79.18,101.75,470,760,290,yellow with orangish red,"immature/mature, ripened",marks,"fully ripened, marks like impressions on B side, black spots on A and B sides",7.7
+12-05-2023,17-05-2023,127,Badami,Chennapatna,20,375,74.43,84.18,109.77,470,860,390,yellow with light green with red blush,"immature/mature, ripened",marks,"fully ripened, marks like impressions on B side",6.5
+12-05-2023,17-05-2023,128,Badami,Chennapatna,20,274,67,82.1,100.82,470,760,290,yellow with light green with red blush,"immature/mature, ripened",marks,"fully ripened, black marks on B side, black woody defect on A side",7.5
+17-05-2023,18-05-2023,129,Badami,Chennapatna,21,279,74.52,80.6,88.26,450,740,290,green,immature/mature,black spots,"lenticels, black spots on A and B side",7.3
+17-05-2023,18-05-2023,130,Badami,Chennapatna,21,409,81.63,90.51,108.14,450,880,430,green ,mature,spots,"lenticels with shoulder formation,  greyish spots on A side, black spots on B side",6
+17-05-2023,18-05-2023,131,Badami,Chennapatna,21,350,73.2,80.25,113.88,450,830,380,green ,mature,spots,"lenticels with shoulder formation,  small black spots on B side",6.8
+17-05-2023,18-05-2023,132,Badami,Chennapatna,21,323,76.4,83.68,101.14,450,790,340,green  with red blush,immature/mature,scarf skin,"lenticels , scarf skin on B side with black spots, twig damage on side",6.8
+17-05-2023,18-05-2023,133,Badami,Chennapatna,21,332,75.01,82.72,108.6,450,810,360,green,immature/mature,black spots,"lenticels with shoulder formation,  black spots on A and B side",6.9
+17-05-2023,18-05-2023,134,Badami,Chennapatna,21,306,74.62,81.45,97.6,450,780,330,green  with red blush,mature,black spots,"lenticels with shoulder formation,  black spots on A  side",7
+17-05-2023,18-05-2023,135,Badami,Chennapatna,21,300,73.08,77.88,106.38,450,780,330,green,immature/mature,none,"lenticels , black spots on A side and around stem",7
+17-05-2023,18-05-2023,136,Badami,Chennapatna,21,356,78.51,82.56,103.48,450,830,380,green,mature,black spots,"lenticels with shoulder formation,  black spots on A and B side",6.4
+17-05-2023,18-05-2023,137,Badami,Chennapatna,21,305,75.92,84.09,93.95,450,770,320,green,mature,black spots,"lenticels with shoulder formation,  black spots on B side",6.8
+17-05-2023,18-05-2023,138,Badami,Chennapatna,21,342,78.03,79.83,105.02,450,810,360,green,mature,none,"lenticels with shoulder formation,  woody damage around stem",6.6
+17-05-2023,19-05-2023,139,Badami,Chennapatna,22,362,76.18,86.02,112.78,420,810,390,green,mature,none,"lenticels with shoulder formation,  black spots around stem and B side",6.8
+17-05-2023,19-05-2023,140,Badami,Chennapatna,22,303,73.05,84.85,100.72,420,750,330,green,immature/mature,lenticel damage,"lenticel damage (white lenticels turned black), physical damage on B side near apex",7.3
+17-05-2023,19-05-2023,141,Badami,Chennapatna,22,332,76.12,86.4,104.7,420,780,360,green,immature/mature,lenticel damage,"lenticel damage (white lenticels turned black), physical damage on B side near apex",6.9
+17-05-2023,19-05-2023,142,Badami,Chennapatna,22,295,75.24,80.28,96.14,420,730,310,green,immature/mature,black spots,"lenticels, black spots on B side, scarf skin on A side",7
+17-05-2023,19-05-2023,143,Badami,Chennapatna,22,317,71.44,83.57,107.77,420,760,340,green,mature,none,"partial lenticel damage (white lenticels turned black) on B side, shoulder formation",7.4
+17-05-2023,19-05-2023,144,Badami,Chennapatna,22,344,80.89,83.88,97.72,420,780,360,green with red blush,immature/mature,spots,"lenticels, black spots around stem and B side",6.4
+17-05-2023,19-05-2023,145,Badami,Chennapatna,22,343,78.64,87.29,98.32,420,770,350,green with light red blush,mature,spots,"lenticels with shoulder formation, dark green spillage coloration on A side, yellowish tint on  B side, sap damage around stem",6.5
+17-05-2023,19-05-2023,146,Badami,Chennapatna,22,359,80.94,85.94,100.47,420,790,370,green,mature,lenticel damage,"lenticel damage with shoulder formation, dark green spillage coloration inbetween A and B side, black spots around stem",6.4
+17-05-2023,19-05-2023,147,Badami,Chennapatna,22,321,76.61,82.31,100.4,420,760,340,green,mature,none,"lenticels with shoulder formation, spots around stem",7
+17-05-2023,19-05-2023,148,Badami,Chennapatna,22,318,76.58,84.14,95.38,420,700,280,green with red blush,mature,lenticel damage,"lenticel damage with shoulder formation, woody damage around stem and B side",6.6
+12-05-2023,22-05-2023,149,Badami,Chennapatna,23,221,60.73,72.08,95.74,450,700,250,yellow with little green (with red blush),"immature/mature, ripened",none,"lenticels, shrivelled skin",8.4
+12-05-2023,22-05-2023,150,Badami,Chennapatna,23,254,62.94,74.17,99.52,450,720,270,yellow with litle green,"immature/mature, ripened",spots,"lenticels, shrivelled skin, black spots on B side, around shoulder, black marks around apex",8.1
+12-05-2023,22-05-2023,151,Badami,Chennapatna,23,263,68.87,76.38,96.71,450,730,280,yellow with little green (with red blush),"immature/mature, ripened",none,lenticels formation,7.6
+12-05-2023,22-05-2023,152,Badami,Chennapatna,23,277,67.72,77.56,104.69,450,750,300,yellow with litle green,"mature, ripened",black spots,"lenticels, spots on A side and around stem",7.9
+12-05-2023,22-05-2023,153,Badami,Chennapatna,23,63.4,63.62,78.88,103.36,450,740,290,yellow with little green (with red blush),"immature/mature, ripened",black spots,"little lenticel damage, black spots on A, B sides and shoulder",7.9
+17/5/2023 (ripe mangoes - defective batch),22-05-2023,154,Badami,Chennapatna,23,257,68.84,74.35,92.87,450,710,260,yellow,"immature/mature, ripened",spots,"lenticel damage, sap burn on the shoulder, damage on the apex",7.6
+17-05-2023,23-05-2023,155,Badami,Chennapatna,24,409,83.54,89.99,103.95,510,920,410,yellow with little green (with red blush),"immature/mature, ripened",lenticel damage,"lenticel damage, rough patch on the shoulders",6.2
+17-05-2023,23-05-2023,156,Badami,Chennapatna,24,260,69.09,80.43,95.31,510,800,290,green,mature,lenticel damage,"lenticel damage with shoulder formation, black spots around stem",7.4
+17-05-2023,23-05-2023,157,Badami,Chennapatna,24,312,72.25,81.96,106.72,510,850,340,green,mature,spots,"lenticels with shoulder formation, spots on A side, twig damage/insect damage on shoulders",7.1
+17-05-2023,23-05-2023,158,Badami,Chennapatna,24,305,76.11,81.27,97.24,510,820,310,green with yellow blush,immature/mature,lenticel damage,"lenticel damage, black spots on the shoulder and B side",7
+17-05-2023,23-05-2023,159,Badami,Chennapatna,24,304,70.1,82.48,107.19,510,830,320,green,mature,spots,"lenticels with shoulder formation, black spots on A and B side",7.2
+17-05-2023,23-05-2023,160,Badami,Chennapatna,24,358,81.12,91.69,101.64,510,880,370,green with uneven yellow,immature/mature,black spots,"lenticels, black spots on the A and B side",6.5
+17-05-2023,23-05-2023,161,Badami,Chennapatna,24,297,75.08,77.19,99.21,510,810,300,green with red blush,mature,black spots,"lenticel damage with shoulder formation, black spots on B side and woody rough texture patch on A side",7
+17-05-2023,23-05-2023,162,Badami,Chennapatna,24,317,71.92,91.01,107.32,510,850,340,green,mature,black spots,"lenticels with shoulder formation, black spots on A side",7.3
+29-05-2023,30-05-2023,193,Badami,Chennapatna,28,327,76.47,80.16,100.64,510,850,340,green with little yellow blush,immature/mature,black spots,"lenticels with shoulder , spots on both A and B  sides",6.8
+29-05-2023,30-05-2023,194,Badami,Chennapatna,28,225,67.33,69.27,92.25,510,750,240,green,immature/mature,black spots,"lenticels with shoulder, spots on ",7.8
+29-05-2023,30-05-2023,195,Badami,Chennapatna,28,294,72.88,76.5,102.86,510,810,300,green with red blush,immature/mature,none,lenticels with certain shoulder development,7.2
+29-05-2023,30-05-2023,196,Badami,Chennapatna,28,230,67.52,70.8,89.88,510,750,240,green,immature/mature,none,"lenticels with certain shoulder development, spots around stem",7.3
+29-05-2023,30-05-2023,197,Badami,Chennapatna,28,261,68.77,72.6,94.77,510,780,270,green with little yellow,immature/mature,spots,"lenticels with shoulder , spots on both A and B  sides",7.5
+29-05-2023,30-05-2023,198,Badami,Chennapatna,28,225,66.97,73.25,92.06,505,700,195,green,immature/mature,none,"lenticels with certain shoulder development, spots around stem",8.1
+29-05-2023,30-05-2023,199,Badami,Chennapatna,28,333,73.19,78.67,105.96,500,850,350,green,immature/mature,none,lenticels with certain shoulder development dry woody texture around stem,6.9
+29-05-2023,30-05-2023,200,Badami,Chennapatna,28,218,67.55,69.66,87.96,500,740,240,green with red blush,immature/mature,spots,"lenticels with certain shoulder development, spots on A side",7.8
+29-05-2023,30-05-2023,201,Badami,Chennapatna,28,230,67.97,71.4,90.78,500,750,250,green,immature/mature,spots,"lenticels with certain shoulder development, light greenish twig marks on A and B sides",7.8
+29-05-2023,30-05-2023,202,Badami,Chennapatna,28,266,70.89,73.25,97.23,500,780,280,green,immature/mature,none,"lenticels with certain shoulder development, light greenish mark on A side, black spots on B side",7.3
+29-05-2023,31-05-2023,203,Badami,Chennapatna,29,203.8,65.96,72.62,88.64,470,680,210,green with red blush,immature/mature,none,"lenticels with certain shoulder development, spots on the shoulder",7.8
+29-05-2023,31-05-2023,204,Badami,Chennapatna,29,217.8,64.21,73.65,91.29,470,700,230,green,immature/mature,none,"lenticels with certain shoulder development, few black marks near apex",7.8
+29-05-2023,31-05-2023,205,Badami,Chennapatna,29,303.4,71.88,79.71,104.09,460,780,320,green,immature/mature,black spots,"lenticels with certain shoulder development, black spots on A side",7.1
+29-05-2023,31-05-2023,206,Badami,Chennapatna,29,220.6,66.06,74.4,92.58,460,710,250,green,immature/mature,spots,"lenticels with certain shoulder development, marks on A and B side",7.8
+29-05-2023,31-05-2023,207,Badami,Chennapatna,29,228.1,69.51,76.56,89.79,460,700,240,green,immature/mature,none,"lenticels with certain shoulder development, skin damage on the shoulders",7.6
+29-05-2023,31-05-2023,208,Badami,Chennapatna,29,231.3,71.7,74.76,91.73,460,700,240,green,immature/mature,marks,"lenticels with certain shoulder development, spots on A, B side and around stem",7.7
+29-05-2023,31-05-2023,209,Badami,Chennapatna,29,271,69.95,81.31,98.03,450,740,290,green,immature/mature,spots,"lenticels with certain shoulder development, spots on A, B side and around stem",7.5
+29-05-2023,31-05-2023,210,Badami,Chennapatna,29,239.1,68.13,79.2,91.78,450,710,260,green with red blush,immature/mature,none,"lenticels with certain shoulder development, light greenish spots on B side",7.4
+29-05-2023,31-05-2023,211,Badami,Chennapatna,29,237.3,69.8,76.13,90.31,450,710,260,green,immature/mature,spots,"lenticels with certain shoulder development, spots on the shoulder and around stem",7.4
+29-05-2023,31-05-2023,212,Badami,Chennapatna,29,263.9,71.01,81.01,94.1,450,735,285,green,immature/mature,skin damaged ,"lenticels with certain shoulder development, black spots around stem and skin damage on B side",7.3
+29-05-2023,01-06-2023,213,Badami,Chennapatna,30,307.5,74.29,81.93,102.2,440,770,330,green,immature/mature,none,lenticels with certain shoulder development,7
+29-05-2023,01-06-2023,214,Badami,Chennapatna,30,231.4,67.67,73.39,91.95,440,700,260,green,immature/mature,none,lenticels with certain shoulder development,7.8
+29-05-2023,01-06-2023,215,Badami,Chennapatna,30,250.8,69.27,70.46,94.57,440,710,270,green,immature/mature,bruise damage,lenticels with certain shoulder development. bruise damage on side B,7.4
+29-05-2023,01-06-2023,216,Badami,Chennapatna,30,313.7,73.87,85,103.65,440,770,330,green,immature/mature,none,lenticels with certain shoulder development,6.8
+29-05-2023,01-06-2023,217,Badami,Chennapatna,30,304.1,70.99,83.94,103.67,440,760,320,green,immature/mature,none,lenticels with certain shoulder development,7.1
+29-05-2023,01-06-2023,218,Badami,Chennapatna,30,253.5,70.45,80.24,92.8,440,710,270,green,immature/mature,black spot,"lenticels with certain shoulder development, black spot on side B",7.5
+29-05-2023,01-06-2023,219,Badami,Chennapatna,30,280.5,70.24,83.84,100.64,440,740,300,green,immature/mature,black spots,"lenticels with certain shoulder development, black spot on side B, sid b small",7.4
+29-05-2023,01-06-2023,220,Badami,Chennapatna,30,265.8,70.6,76.83,95.18,430,720,290,green,immature/mature,none,"lenticels with certain shoulder development, black spot underside",7.2
+29-05-2023,01-06-2023,221,Badami,Chennapatna,30,300.7,71.95,84.41,99.85,430,750,320,green yellow,mature,none,"lenticels with certain shoulder development, black spots near stem",7.1
+29-05-2023,01-06-2023,222,Badami,Chennapatna,30,313,73.72,86.21,103.23,430,770,340,green with red blush,immature/mature,none,"lenticels with certain shoulder development, black spot on side B",7.1
+29-05-2023,02-06-2023,223,Badami,Chennapatna,31,241.3,67.38,77.59,94.57,420,660,240,green,immature/mature,none,"lenticels, woody texture on shoulders and spots around stem",7.1
+29-05-2023,02-06-2023,224,Badami,Chennapatna,31,234.6,68.05,76.7,90.32,415,660,245,green,immature/mature,none,"lenticels with certain shoulder development, spot near apex and around stem",7.6
+29-05-2023,02-06-2023,225,Badami,Chennapatna,31,219.8,69.35,74.03,87.05,410,640,230,green,immature/mature,spots and twig/insect damage,"lenticels with certain shoulder development, insect/twig damage on A side and sap burn on B side",7.6
+29-05-2023,02-06-2023,226,Badami,Chennapatna,31,300.6,73.98,83.11,101.29,410,730,320,green with little yellow,immature/mature,spots,"lenticels with certain shoulder development, woody damage and sap burn around stem, spots on A and B side",9.7
+29-05-2023,02-06-2023,227,Badami,Chennapatna,31,329,72.69,87.57,105.94,410,750,340,green with little yellow,immature/mature,translucent sap,"lenticels with certain shoulder development, translucent sap on B side",6.9
+29-05-2023,02-06-2023,228,Badami,Chennapatna,31,215,63.75,70.54,87.54,410,630,220,green with little yellow,immature,black spots,lenticels with shoulder development,10.1
+29-05-2023,02-06-2023,229,Badami,Chennapatna,31,226.3,68.93,74.97,88.13,410,640,230,green,immature/mature,black spots,lenticels with little shoulder development,7.6
+29-05-2023,02-06-2023,230,Badami,Chennapatna,31,258.8,70.8,78.79,95.17,410,680,270,green with yellow blush,immature/mature,black spots,lenticels with little shoulder development,7.2
+29-05-2023,02-06-2023,231,Badami,Chennapatna,31,227.3,67.08,75.79,94.67,400,640,240,green,immature/mature,none,"lenticels with sholder, spots on B side",7.8
+29-05-2023,02-06-2023,232,Badami,Chennapatna,31,248.5,68.06,79.62,92.69,400,660,260,green with little yellow,immature/mature,none,lenticels with sholder black spots at stem,10.2
+29-05-2023,05-06-2023,233,Badami,Chennapatna,32,234.6,69.68,77.19,90.74,520,770,250,green with light yellow,"immature/mature, ripened",marks,"lenticels with little shoulder development, cut marks on B side and spots on A side",7.6
+29-05-2023,05-06-2023,234,Badami,Chennapatna,32,256.6,69.27,77.49,94.03,520,790,270,green with little yellow,immature/mature,black spots,"lenticels with little shoulder development, spots on B side",7.5
+29-05-2023,05-06-2023,235,Badami,Chennapatna,32,247,67.69,77.93,97.08,520,780,260,green with little yellow,"immature/mature, ripened",black spots,"lenticels with little shoulder development, sap burn on B side and marks on A side",7.5
+29-05-2023,05-06-2023,236,Badami,Chennapatna,32,381.7,78.89,89.91,109.5,520,915,395,green with yellow,"immature/mature, ripened",none,lenticels with little shoulder development,6.3
+29-05-2023,05-06-2023,237,Badami,Chennapatna,32,320.4,70.85,88.58,107.42,520,850,330,green with little yellow,"immature/mature, ripened",spots,"lenticels with certain shoulder development, spots on A side",7.1
+29-05-2023,05-06-2023,238,Badami,Chennapatna,32,255.8,68.93,79.91,95.07,510,780,270,green with yellow blush,immature/mature,none,lenticels with little shoulder development,7.5
+29-05-2023,06-06-2023,239,Badami,Chennapatna,33,277.4,69.58,81.1,97.5,490,770,280,yellow with little green,"immature/mature, rippen",none,"lenticels with black spots, shoulder development",10.1
+29-05-2023,06-06-2023,240,Badami,Chennapatna,33,213.8,65,71.94,91.84,490,710,220,green,immature/mature,none,"lenticels with black spots on B side, shoulder development",7.9
+29-05-2023,06-06-2023,241,Badami,Chennapatna,33,228.8,67.91,72.82,91.17,490,730,240,green,immature/mature,none,lenticels with little shoulder development,10.6
+29-05-2023,06-06-2023,242,Badami,Chennapatna,33,221.1,67.13,74.17,90.27,485,720,235,green with yellow blush,"immature/mature, ripened",none,"lenticels with little shoulder development, black spots near stem",7.7
+29-05-2023,06-06-2023,243,Badami,Chennapatna,33,187.6,57.92,70.89,87.94,485,680,195,yellow with little green,"immature/mature, ripened",near stem,lenticels with little shoulder development,8.5
+29-05-2023,06-06-2023,244,Badami,Chennapatna,33,214.2,69.78,71.74,88.79,480,700,220,green with little yellow blush,"immature/mature, ripened",none,"lenticels with little shoulder development, black spots on A side",7.8
+29-05-2023,06-06-2023,245,Badami,Chennapatna,33,236.7,65.97,74.58,95.07,480,730,250,green,immature/mature,none,"lenticels with little shoulder development, green line on b side",7.8
+29-05-2023,06-06-2023,246,Badami,Chennapatna,33,237.3,70.43,77.4,92.83,480,725,245,green,immature/mature,none,"lenticels with little shoulder development, black spots on A side",7.7
+29-05-2023,06-06-2023,247,Badami,Chennapatna,33,299.1,72.52,78.63,105.14,480,790,310,green,immature/mature,none,lenticels with little shoulder development,7.2
+29-05-2023,06-06-2023,248,Badami,Chennapatna,33,275.2,66.71,74.6,106.14,480,760,280,green and little yellow + red blush,immature/mature,none,lenticels with little shoulder development,7.5
+29-05-2023,07-06-2023,249,Badami,Chennapatna,34,236.3,68.03,72.87,95.31,470,710,240,green with little yellow,"immature/mature, ripened",none,"lenticels with little shoulder development, spots around stem",10.4
+29-05-2023,07-06-2023,250,Badami,Chennapatna,34,211.3,67.81,73.26,87.51,465,680,215,green with yellow,"immature/mature, ripened",lenticel damage,lenticel damage with shoulder development,10.6
+29-05-2023,07-06-2023,251,Badami,Chennapatna,34,214.4,66.14,72.17,90.46,460,680,220,green with yellow,"immature/mature, ripened",black spots,"lenticels, black spots on B side",7.9
+29-05-2023,07-06-2023,252,Badami,Chennapatna,34,225.2,66.44,74.81,90.47,460,700,240,green with yellow,"immature/mature, ripened",spots,"lenticels with little shoulder development, sap burn around stem",10.4
+29-05-2023,07-06-2023,253,Badami,Chennapatna,34,231.6,68.28,77.86,92.13,460,700,240,green with yellow,"immature/mature, ripened",none,"lenticels with little shoulder development, spots around stem and near apex",10.3
+29-05-2023,07-06-2023,254,Badami,Chennapatna,34,233.5,68.09,74.68,92.28,450,700,250,green with yellow,"immature/mature, ripened",spots,"lenticels with little shoulder development, spots around stem",7.7
+29-05-2023,07-06-2023,255,Badami,Chennapatna,34,179.2,61.82,69.81,81.74,450,640,190,green,immature/mature,none,"lenticels, black spots around stem",8.3
+29-05-2023,07-06-2023,256,Badami,Chennapatna,34,305.6,75.27,82.89,104.99,450,770,320,green with yellow,"immature/mature, ripened",lenticel damage,lenticel damage with shoulder development,7
+29-05-2023,07-06-2023,257,Badami,Chennapatna,34,228.8,68.5,70.68,90.94,450,700,250,green with little yellow,immature/mature,none,"lenticels with little shoulder development, black scab near B side",7.7
+29-05-2023,07-06-2023,258,Badami,Chennapatna,34,262.9,72.39,80.64,96.86,450,730,280,green,immature/mature,none,"lenticels with little shoulder development, spots around stem",7.3
+29-05-2023,08-06-2023,259,Badami,Chennapatna,35,225.6,67.63,74.55,90.45,500,730,230,green with yellow blush,"immature/mature, ripened",none,"lenticels with little shoulder development, spots around A,B side",7.9
+29-05-2023,08-06-2023,260,Badami,Chennapatna,35,243.5,66.81,72.2,99.34,500,750,250,red with little green and blush,"immature/mature, ripened",none,"lenticels with little shoulder development, spots around A,B side",7.6
+29-05-2023,08-06-2023,261,Badami,Chennapatna,35,197.7,64.2,68.31,88.61,500,700,200,green with red blush,immature/mature,none,lenticels with little shoulder development,8.2
+29-05-2023,08-06-2023,262,Badami,Chennapatna,35,220.4,66.34,73.21,91.6,500,730,230,green,immature/mature,none,lenticels with little shoulder development,7.9
+29-05-2023,08-06-2023,263,Badami,Chennapatna,35,207.7,66.76,72.17,87.22,490,710,220,green with yellow blush,immature/mature,none,lenticels with little shoulder development,8.1
+29-05-2023,08-06-2023,264,Badami,Chennapatna,35,209.1,64.46,68.92,89.96,490,705,215,green with yellow blush,immature/mature,none,"lenticels with little shoulder development, spots around A side",8
+29-05-2023,08-06-2023,265,Badami,Chennapatna,35,209,64.19,73.04,89.44,490,710,220,green,immature/mature,none,"lenticels with little shoulder development, spots around stem",8
+29-05-2023,08-06-2023,266,Badami,Chennapatna,35,203.3,64.36,72.02,88.48,485,700,215,green with little yellow,"immature/mature, ripened",none,"lenticels with little shoulder development, spots around stem",8.1
+29-05-2023,08-06-2023,267,Badami,Chennapatna,35,222.1,68.02,71.81,88.51,480,720,240,yellow with little green (with red blush),"immature/mature, ripened",none,"lenticels with little shoulder development, spots around stem",7.8
+29-05-2023,08-06-2023,268,Badami,Chennapatna,35,229.8,66.63,76.72,91.79,480,725,245,green with little yellow blush,immature/ mature,none,"lenticel with shoulder development , spots near stem",7.8
