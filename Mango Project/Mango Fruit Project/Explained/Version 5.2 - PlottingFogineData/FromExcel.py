@@ -1,5 +1,5 @@
 import pandas as pd
-location="C:\\Users\\dheeraj\\Desktop\\Python\\Sample_immature_mature.csv"
+location="Sample_immature_mature.csv"
 data=pd.read_csv(location)
 df=pd.read_csv(location,usecols=data.head())
 
